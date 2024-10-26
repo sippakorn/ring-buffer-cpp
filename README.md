@@ -1,3 +1,26 @@
+# C++ RingBuffer Project
+
+_There are bunch of original template files that need to be cleanup. Please ignore them at this moment._
+
+## RingBuffer
+
+The coding challenge consists of 3 parts.
+
+- First of all, the basic RingBuffer setup including template should be found at this commit
+- Second, move sementic is enabled in following commit
+- Lastly, thread safe feature was introduced to the project.
+
+## Test Cases
+
+Test cases was include in the '/test/source' directory.
+
+For more information about how to build and run, plese checkout datail listes below.
+
+Thank you.
+
+**Content below this line is derived from original template.**
+
+-------
 [![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/MacOS/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
 [![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/Windows/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
 [![Actions Status](https://github.com/TheLartians/ModernCppStarter/workflows/Ubuntu/badge.svg)](https://github.com/TheLartians/ModernCppStarter/actions)
